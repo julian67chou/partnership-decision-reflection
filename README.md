@@ -6,5 +6,5 @@
 - TimeWaver、塔羅與卦象只作反思材料，不是科學驗證、人格診斷、法律證據或勝訴預測。
 - 不包含特定案件資料、個人姓名、診所、地理、金額、日期、診斷或醫療設備資訊。
 - 頁面勾選只存在於目前瀏覽器記憶體，不會儲存、上傳或傳送。
-- `assets/lantern-paths.svg` 是本專案內手寫的原創 SVG 插畫，無外部圖片、字型、CDN 或追蹤工具。
+- `assets/lantern-paths.webp` 是本專案內的 AI 生成象徵插畫；無外部圖片、字型、CDN 或追蹤工具。
 - `receipts/previous-release-receipt.json` 保留前一版發布收據；原始報告只在私下本機閱讀，未加入 repo。
