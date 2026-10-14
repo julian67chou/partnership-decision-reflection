@@ -1,0 +1,73 @@
+{
+  "artifact_root": "/opt/data/cache/scratch/partnership-decision-reflection-release",
+  "files": [
+    "index.html",
+    "README.md",
+    "vercel.json",
+    ".gitignore"
+  ],
+  "github": {
+    "repo": "https://github.com/julian67chou/partnership-decision-reflection",
+    "visibility": "public",
+    "branch": "main",
+    "sha": "c651fddb2b18910b9b5e2cc481f588e1682cd115",
+    "index_sha256": "b5ab67ee91473901711d4abadf52747ed44897134c35f2c5a2c682422b1c2258",
+    "readback_equal_local": true
+  },
+  "vercel": {
+    "project_id": "prj_11XFvpE4eMkpothDPq3jjUcOiq89",
+    "project_name": "partnership-decision-reflection",
+    "link": {
+      "type": "github",
+      "repo": "partnership-decision-reflection",
+      "repoId": 1418272305,
+      "org": "julian67chou",
+      "repoOwnerId": 220357474,
+      "gitCredentialId": "cred_b60c7950a89deb19790584eb370ca17ff5e0f528",
+      "productionBranch": "main",
+      "createdAt": 1791945914278,
+      "updatedAt": 1791945914278,
+      "deployHooks": []
+    },
+    "deployment_id": "dpl_EVBPYvKBDTQVr8PWkGQvqgeu1UBn",
+    "ready_state": "READY",
+    "target": "production",
+    "git_source": {
+      "type": "github",
+      "repoId": 1418272305,
+      "ref": "main",
+      "sha": "c651fddb2b18910b9b5e2cc481f588e1682cd115"
+    },
+    "aliases": [
+      "partnership-decision-reflection.vercel.app",
+      "partnership-decision-reflection-julian-c-projects.vercel.app",
+      "partnership-decision-reflection-git-main-julian-c-projects.vercel.app"
+    ]
+  },
+  "live": {
+    "url": "https://partnership-decision-reflection.vercel.app/",
+    "index_status": 200,
+    "index_sha256": "b5ab67ee91473901711d4abadf52747ed44897134c35f2c5a2c682422b1c2258",
+    "bytes_equal_github": true
+  },
+  "hub": {
+    "repo": "https://github.com/julian67chou/xiaomi-hub",
+    "branch": "main",
+    "commit_sha": "24e126ba530c58678ee901b053646a18bb19cd15",
+    "card_id": "partnership-decision-reflection",
+    "card_url": "https://partnership-decision-reflection.vercel.app",
+    "live_projects_json_status": 200
+  },
+  "browser": {
+        "local": "PASS — Chromium 390px and 1280px",
+        "live_desktop": "PASS",
+        "live_mobile": "PASS",
+        "hub_link_readback": "PASS"
+      },
+  "privacy_scan": {
+    "banned_hits": [],
+    "status": "PASS"
+  },
+  "independent_review": "NOT_RUN",
+  "application_data_mutation": false
+}
